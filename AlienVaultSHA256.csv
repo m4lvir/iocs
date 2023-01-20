@@ -1,0 +1,101 @@
+DATE,HASH,AVAST,AVG,CLAMAV,MSDEFENDER
+14-Jan-23,9fcb439ca40f237f17fb3b1f8a4d63e1a4d0f88eb7c42060a3473137d239f8b2,Win32:Trojan-gen,,Win.Malware.Bzub-9969513-0,VirTool:Win32/Injector.EG
+14-Jan-23,f89f8bb5b6e6ab542b67b2475cb3580274c7dbb1b15814df7c609f19a7c65904,Win32:Evo-gen\ [Trj],,Win.Malware.Autoit-6981134-0,TrojanDropper:Win32/Pistolar.AA!MTB
+11-Jan-23,a0d012cc5b66c17f6788899fcb67ca334f3b35f78985d16aab2f5ce7dd1b0000,,,,
+10-Jan-23,67197840d861ee7964ff9cf39fc2f9ab2a42ba3b636470788f783138197451d9,Win32:BankerX-gen\ [Trj],,Win.Malware.Cridex-9803856-0,Trojan:Win32/Dridex.OQ!MTB
+9-Jan-23,cbadbe87bc27d1627166e618acf18274477867d5ffc18620c8334ed84a392913,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+9-Jan-23,9d646f0ff10a34cb28de8ccbe0fb34094f956ab53332b3602aece3a3329f07eb,,,Win.Malware.Agent-6598770-0,ALF:HeraklezEval:SoftwareBundler:Win32/InstallMonster
+9-Jan-23,5eef3f0266673b8e4e416035dec396e0e9e8ac3a924aea5e9cb0e7804a2e5b71,Win32:Buterat-WQ\ [Trj],,Win.Malware.Ulise-7170100-0,Trojan:Win32/Neconyd.A
+9-Jan-23,2badca6623fafe4271572d888dfac596c111edad666a935d50284cc6f473d951,Win32:Pioneer-C,,Win.Malware.Swisyn-7610494-0,PWS:Win32/VB.CU
+9-Jan-23,468bb4c23bb41bcc139602aa7ed5313a9b3e3e03a6bc3c085f0bb47efe6ce3e9,,,,#Lowfi:HSTR:Win32/Obfuscator.Zprotect
+9-Jan-23,ac22360cc7e1c25ca033dc552464038aa50e67901c67b3d966a2398e254c4555,Win32:Malware-gen,,,
+8-Jan-23,883967eb618041d7f5052433439f9473a438c5b1cd19b8192fdb4948f08eb713,,,,
+2-Jan-23,d2e6dbe7583d2cbfa03ec37ba838ca96a2ff1db70bcb38b5f4e2e6f27b582d04,,,,
+2-Jan-23,bd0c88b1259ee8eb85b014ceca753867837cb4a3feb4f58cb53b277e3af685b5,,,Win.Packed.Zusy-9837875-0,ALF:HeraklezEval:PUA:Win32/Amonetize
+1-Jan-23,1b2526cd74308c24f1545847388f81ebf470430ba1cfecb1208d35c17e8a4050,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+25-Dec-22,5ab67977efbeb533b83bfe174d3fbaa3a014e2fafbbba1f41618b1a463df906c,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+24-Dec-22,50fc9c94fc7eddc9a571381e636f3763a8a181852491a39bbabd742063f6c43c,Win32:Agent-JOL\ [Trj],,Win.Spyware.7826-2,ALF:HeraklezEval:Backdoor:Win32/Rbot
+24-Dec-22,1baa6ba9414005af0c9257e1fd88cb0f93bfd8998a77f60ab161bab96a5a397f,Win32:VB-AJKP\ [Trj],,Win.Malware.Swisyn-7610494-0,PWS:Win32/Ymacco.AA50
+21-Dec-22,82f3dbeb64729dc4bdf62a5d892f17ac0a3f43f41c2f9d7bdc07fe36a1f014f8,Win32:Malware-gen,,,
+21-Dec-22,ce7bdcac94993d1481de8b9c3d290033bc033340dac98d6f683ab9be5077a346,,,Win.Trojan.Generic-9918311-0,
+21-Dec-22,ddd9896d09dcaeea78166b80ede0cce46d20883066d730c47cf8bc0bdc99b234,Win32:VB-AJKP\ [Trj],,Win.Malware.Swisyn-7610494-0,PWS:Win32/VB.CU
+20-Dec-22,1fb8f2e3a2b3aeeebd5f8a9e9ab1ddb56ef456633949dbe8a1e983a0330bcec1,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+18-Dec-22,4da08703fa23be32fff6aa6f8c843b5f5fea5aff5ca826f52442fe1081c84f44,,,,
+18-Dec-22,c260a2391a91d11f4e30162a087b7579a6ca50a0d7c0f35b90cf1e14135e2786,Win32:RansomX-gen\ [Ransom],,Win.Malware.Generickdz-9938530-0,Trojan:Win32/Zombie.A
+17-Dec-22,2945deb63e1bfd6c5e63e0d708dbac5db70c939e5cb467cc74c810df48390beb,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+17-Dec-22,6bf3c0f6841ee85dd8ad8788cd2a4fcb71c4335efe5773634eeec7e93852e403,Win32:Evo-gen\ [Trj],,Win.Malware.Generic-9820446-0,
+17-Dec-22,87f44f04fea6aeb9501c4fcfdc5da95bc0df3039256eaab014d7004f02c29743,Win32:Evo-gen\ [Trj],,Win.Trojan.Agent-358439,TrojanSpy:Win32/PKeylog
+16-Dec-22,d57a9a8876c77b31186e91edef98c2b8810dbedc2b2d0295e9ca6e8c0d6f924e,Win32:VB-AJKP\ [Trj],,Win.Malware.Swisyn-7610494-0,PWS:Win32/Ymacco.AA50
+15-Dec-22,17b74a31509e21152be5e61022192ed89165216fd79d2d9d294cd0a683837882,Win32:VB-AJKU\ [Trj],,Win.Trojan.Generic-9959068-0,TrojanDropper:Win32/Muldrop.V!MTB
+15-Dec-22,8f1ed948dcbf6ce98c1e94113f982fed558f1f4075b4ef35a88dffcac305f481,Win32:Trojan-gen,,Win.Malware.Lebreat-6840862-0,Trojan:Win32/Small.DH
+14-Dec-22,ceb08d36b9832383b3e71a49e47eebe9e39af346e3251a0baf907aaffc925b5d,Win32:CrypterX-gen\ [Trj],,,
+14-Dec-22,9a6ba3f0c7c223dea74bb0a89004b36097b6983cc187d76a58fdfc9e5683f88a,Win32:RansomX-gen\ [Ransom],,Win.Malware.Generickdz-9938530-0,Trojan:Win32/Zombie.A
+13-Dec-22,d35720ec26177eb3550b8daa805315396c86d359af146757e6dd159fd35d6d18,Win32:Malware-gen,,Win.Malware.Convagent-9979654-0,
+13-Dec-22,01130df94c760c8d405eca8064fae304ccca42a172da3fb826ef800429b48df1,Win32:Malware-gen,,,
+13-Dec-22,25b29ddf124b8803453323560c19a34fc3aae953a7f68b4fa2c31d979a5f7fe5,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+13-Dec-22,3a55a81fece7f1b02c3eb17a73aeb458775b56ab5f0ef2f841d1bd76ab74c8bb,,,,
+12-Dec-22,96972d6369b40dd098004a33ab22dacd6dad8d494b2b24e6dd7dd2de50bb588d,,,,
+12-Dec-22,6c611ff07b05e65f617d1d2ea85e744d12d93d095c2bc68cd2d64aa459db0bf4,Win32:Evo-gen\ [Trj],,Win.Malware.Genkryptik-9839711-0,
+12-Dec-22,469dc27dcf458e0d6944bc69c11270fcb3ab930f772a5d2ecd43156459b9c7d5,Win32:DropperX-gen\ [Drp],,Win.Packed.Msilheracles-9943143-0,
+12-Dec-22,21b2daeb5f5358187249d74c12c6a015d220d5b5f022f41f64319d41ef9a1c42,Win32:Buterat-WQ\ [Trj],,Win.Malware.Ulise-7170100-0,Trojan:Win32/Neconyd.A
+12-Dec-22,b0c2d4818b3ffe69c615e90a978a306bf680fcb1403deda664f3574ed5ed1f3d,,,,
+12-Dec-22,e12eea29f7d6448e7d79066dc645509d104584f89a9734089b1efc4848b3fe35,,,,
+12-Dec-22,f370297bf2d0adc080d7dc200dd8af29e89246acc2f42fbf99797b24b3395526,Win32:VB-AJKU\ [Trj],,Win.Packed.Generic-9967832-0,TrojanDropper:Win32/Muldrop.V!MTB
+12-Dec-22,bfddea70482823f8f74b6aa737d5ec2d04774a152e1fdc61efc8d33b5bd6b50a,,,,
+12-Dec-22,f8ec47211e985cb8d16b75765342c561cecb78a452eeb2e65aa59acae364e8be,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+12-Dec-22,dcac5ac84afbab017afea5c9e714a2b18f2429e5a517e3556a07ab309db887f4,Win32:TrojanX-gen\ [Trj],,,TrojanDownloader:Win32/Upatre
+12-Dec-22,068bef085f14e0458819ae3a00d28b8d7602bae936a47e9b0c0b78d6673154c9,Win32:VB-AJKP\ [Trj],,Win.Malware.Swisyn-7610494-0,PWS:Win32/VB.CU
+12-Dec-22,0506d80fe59635663a22aeffb8197d0c79e1bb61e9ea09d5bf718f7f27d6e3f3,Win32:VB-AJKP\ [Trj],,Win.Malware.Swisyn-7610494-0,PWS:Win32/VB.CU
+11-Dec-22,8f9ee3f57434a8c7ac637cb5e762fd00d93e9a882d1b14e9b00e3b51d0324175,Win32:VB-AJKU\ [Trj],,Win.Trojan.Generic-9959068-0,TrojanDropper:Win32/Muldrop.V!MTB
+10-Dec-22,96fe450b1ccf0ad2b8abbf899dd79a76b6e8bb1f45c8cf55e677c619800923b3,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+10-Dec-22,412d1d5d38d8f20721fa1c401ae4319172afb3ec1942f9271aade01c90d07d6c,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+9-Dec-22,9465ff6100a897301c8702bcb1a355a229d8859a3caa06459af1e1349e5594de,Win32:BankerX-gen\ [Trj],,Win.Malware.Zbot-9951822-0,PWS:Win32/Zbot.gen!U
+9-Dec-22,26139dbf8ea6139b698297ecc7553a90485e29a68240566d2eafa8dbb9203885,Win32:VB-AJKU\ [Trj],,Win.Trojan.Generic-9959068-0,TrojanDropper:Win32/Muldrop.V!MTB
+9-Dec-22,2b6511b22be90191f104cb478dd98b1a5e062cc35d56b754f4a09b1dff28bfa8,,,Win.Malware.Vmprotect-9878326-0,
+9-Dec-22,d124de6abb15ca0da3a2b847fc051c1058ceff3c93757ad0e8cb8f7886050502,Win32:Trojan-gen,,Win.Malware.Bzub-9969513-0,VirTool:Win32/Injector.EG
+8-Dec-22,bc8c0b3d0865c85509132dcb1727c935862a91e7a3fba30d39462dc387750bb8,Win32:VB-AJKU\ [Trj],,Win.Trojan.Generic-9959068-0,TrojanDropper:Win32/Muldrop.V!MTB
+8-Dec-22,b1a8499e56a8c3f92037e9393369266c7a6d85a8068f4a0132b4b147197fc2e5,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+8-Dec-22,e1535628c332d33c0d1433151de1d97f7c4dd010fc41cead0f07e3746a06a72e,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+7-Dec-22,9edc7839b3dfa90f0b78a9944ef6b183729eee516a57d913ae14ef12d14c8e27,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+7-Dec-22,7864d685eb9c7389f79f8baf2c2c292b5000747a816faa35d2060b7639435d87,MSIL:Crypt-HD\ [Trj],,Win.Packed.Maligarnet-9793433-0,Trojan:Win32/Dibizor.A!bit
+7-Dec-22,55225970a80b40ae3c0eeb639744dbc6b321f05eaed9048fa9eb5478a80baab5,MSIL:Crypt-HD\ [Trj],,Win.Packed.Maligarnet-9793433-0,Trojan:Win32/Dibizor.A!bit
+6-Dec-22,a408411a16d8e92416f6c06ef8ac6cae2b34e07784cb2adcd85eb1056d3c776c,Win32:Evo-gen\ [Trj],,,PWS:Win32/VB.CU
+6-Dec-22,6f7b8d5ffd4eab1fb56d7116e18aba2d9fc4e524d939eba710fd9f29bd44016a,Win32:Agent-ARFR\ [Trj],,Win.Malware.Fugrafa-9833048-0,Backdoor:Win32/Wavipeg.A
+6-Dec-22,f430b1d8cd3c4b1e111ddc28d53d5491e160ed1a33db1cd3178dbad300dec8f7,,,,
+6-Dec-22,dac0874bcf47db2706019873f5000bdbee5c89238f565b61c984532d089246d6,Win32:DropperX-gen\ [Drp],,Win.Malware.Cyns-7782618-0,Trojan:Win32/Sisproc!gmb
+6-Dec-22,50ff599597bf064f686375e15caa10deab1ad9ac0aa98bbe501fd9b2b1524427,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+5-Dec-22,b70974bf6a43adbead4d6fd21c7fee0c85031207240cd0c40b9a7b3ceb55a0e4,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+5-Dec-22,3d54bbc9d1ccd71a91325ff745b7e76a926836057a8a84ad6ee9c0809e74fab0,Win32:VB-AJKU\ [Trj],,Win.Packed.Generic-9967832-0,TrojanDropper:Win32/Muldrop.V!MTB
+5-Dec-22,809b41a9fadb587aabf4f3367d8a9ba7ddbbecedd4ccee4f98c17044b3d588fa,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+4-Dec-22,cacacd6913ac502c8bc044bdfdf2eb1f8e9410c198fb755fa2c67629b58ab369,,,Win.Malware.Speedingupmypc-6999844-0,ALF:HeraklezEval:PUA:Win32/SpeedingUpMyPC
+4-Dec-22,c201c63e3f1a6583abd88a5a138844b7ccaab7aed8fe138a0d40a655c33250e0,,,Win.Packed.Trojanx-9854087-0,
+4-Dec-22,877af3d3a66236de65d6d921619bc4a59332fbfb7c158cace0a86607de330235,Win32:VB-AJKU\ [Trj],,Win.Packed.Generic-9967832-0,TrojanDropper:Win32/Muldrop.V!MTB
+3-Dec-22,2d35c66a422e07a4c1ee1d0963c54db2c52ea2f4a7067f6a2a6d809f91b298d4,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+3-Dec-22,1eca825c345feebe562ba3490fa56499aa844618158e687eff115592af5d8eb7,Win32:VB-AJKU\ [Trj],,Win.Malware.Midie-6847892-0,TrojanDropper:Win32/Muldrop.V!MTB
+3-Dec-22,f6b66c2a7e38473d58d6c3e70b7bb7a44d8e33681be3d17215bb6574a9badfda,Win32:VB-AJKU\ [Trj],,Win.Malware.Midie-6847893-0,TrojanDropper:Win32/Muldrop.V!MTB
+3-Dec-22,d2d929a6714e266375729e7654ebed7fec4eee454f2a2ef936514e5b8ba201a9,Win32:VB-AJKU\ [Trj],,Win.Malware.Midie-6847892-0,TrojanDropper:Win32/Muldrop.V!MTB
+3-Dec-22,57f297cc13af9593d8112002a1d61ca1ce666252ef8d69b610ca8e158f9ea887,,,Win.Malware.Vmprotect-9878254-0,
+3-Dec-22,0a71f6da363a0a1355f9f45b1d2a0c8ebc62aa0a0265ae41e3703a7b663a305a,Win32:VB-AJKU\ [Trj],,Win.Packed.Generic-9967832-0,TrojanDropper:Win32/Muldrop.V!MTB
+3-Dec-22,ac724b2773d99f7025c2d91e70be21746925dbeea65a5b076efa3c4d0e6cb2a4,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+3-Dec-22,9e381eef4a21c21516ae5688486862c2de3a605bcb483f364d920a697e17bd56,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+3-Dec-22,a184e7954acd266f6a3fe8d0c2d254b708ad5d0b8bf0774f49fad49888733b85,Win32:VB-AJKU\ [Trj],,Win.Packed.Generic-9967832-0,TrojanDropper:Win32/Muldrop.V!MTB
+3-Dec-22,1b3ead57979f491d28127c09b7e81a1cabf7f40e5ceb1c87adbd377641c2513f,Win32:VB-AJKU\ [Trj],,Win.Malware.Midie-6847892-0,TrojanDropper:Win32/Muldrop.V!MTB
+3-Dec-22,bf8cd8e6a135c1f04ae3dde90c80d4dea6008f5bd98301b384dc3b3ef192ebb6,Win32:Evo-gen\ [Trj],,,
+3-Dec-22,c19048a7bc3f4d4cd901ef2b6a912dfdcd6e6d492563d64604f053590507c67a,Win32:VB-AJKU\ [Trj],,Win.Packed.Generic-9967832-0,TrojanDropper:Win32/Muldrop.V!MTB
+3-Dec-22,d4ebd202870d26995a092cb4305e108642d014f5dae8c3006ee2b11673034891,,,,
+3-Dec-22,659dbb2cab0feeb35e4203e2c353e572a97052e0897197f255f1926697841f4d,Win32:Pioneer-C,,Win.Virus.Pioneer-9111434-0,Worm:Win32/Mofksys.RND!MTB
+2-Dec-22,12d476a743cdbe6f79903893e6b8eca1816057907cb05fe8d9fb514df710a396,,,Win.Trojan.NanoCore-9852758-0,Backdoor:MSIL/Nanocore.S!MTB
+2-Dec-22,08d544882a480c25db4d4c426407c525fddef6e3e5ae68f94820a43945286e90,Win32:VB-AJKU\ [Trj],,Win.Trojan.Generic-9959068-0,TrojanDropper:Win32/Muldrop.V!MTB
+2-Dec-22,d655b079de4c50e4d4e271f05f795a89bce4ddcdf9ba2afcdef7586bdff48329,,,Win.Trojan.NanoCore-9852758-0,Backdoor:MSIL/Nanocore.S!MTB
+2-Dec-22,3a786cd6b31d26678b34a81658b5efda1601da5364c0343d9d641444b39e4c55,,,Win.Trojan.NanoCore-9852758-0,Backdoor:MSIL/Nanocore.S!MTB
+2-Dec-22,f956789adde6c3fb07c31f810bd0d1b8ecd5bff2a3f869488d164516a090eb9d,,,Win.Trojan.NanoCore-9852758-0,Backdoor:MSIL/Nanocore.S!MTB
+2-Dec-22,14a0703d6ad0d48950a441214a3445def23d6ce0226792f72efb51db34c59bec,Win32:VB-AJKP\ [Trj],,Win.Malware.Swisyn-7610494-0,PWS:Win32/Ymacco.AA50
+1-Dec-22,f48aad653ee2e3d175ca6491dfc0ceff75a6418461aee88c44b9d29648430aee,Win32:VB-AJKU\ [Trj],,Win.Packed.Generic-9967832-0,TrojanDropper:Win32/Muldrop.V!MTB
+1-Dec-22,b62f04a91b24f1fe2ec6e73e5e18ef10913ff00bfb795d32be0747972203f456,Sf:Zbot-CQ\ [Trj],,Win.Malware.Zbot-9977984-0,PWS:Win32/Zbot.gen!R
+30-Nov-22,bf2eb47232cf3788b7f9706a74989ac83be8c22462b9e74cbd512842e6ebe46b,,,,
+30-Nov-22,d3adc94c5a8cf2d58f5171b96122ba943f5db8543c9d08004626bfa8a397513e,Win32:VB-AJKU\ [Trj],,Win.Packed.Generic-9967832-0,TrojanDropper:Win32/Muldrop.V!MTB
+29-Nov-22,ce0e16057446ac4dc838d30c0934e28bb9ecb0ad2f18a553577b7b861aa65ced,Win32:VB-AJKP\ [Trj],,Win.Malware.Swisyn-7610494-0,PWS:Win32/VB.CU
+29-Nov-22,38f0eae5a415ad2f3e7119cd026d90148e51766c0b24e97a9f1cb2fb8f034c2c,Win32:VB-AJKU\ [Trj],,Win.Malware.Midie-6847892-0,TrojanDropper:Win32/Muldrop.V!MTB
+29-Nov-22,3ff055ae69eedad347d87b401bffbe3373c39e861e5d18987f64b4a373267a93,,,,
+29-Nov-22,b0407dcfc2e651e6f62700240c10d63abba275ac5d3f50010dfa9e6e1422f2be,Win32:Evo-gen\ [Trj],,Win.Trojan.Agent-959440,
+29-Nov-22,139e8985c899a295dae99451413351d5fb671e80b3680683d6dfcd60d1224f97,Win32:VB-AJKU\ [Trj],,Win.Packed.Generic-9967832-0,TrojanDropper:Win32/Muldrop.V!MTB
